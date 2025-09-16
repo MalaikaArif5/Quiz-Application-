@@ -7,7 +7,7 @@ var questions = [
   {
     question: "Inside which HTML element do we put the JavaScript?",
     options: ["<js>", "<javascript>", "<script>", "<code>"],
-    answer: "<script>"
+    answer: "<script>
   },
   {
     question: "Which CSS property controls the text size?",
